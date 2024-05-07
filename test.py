@@ -1,3 +1,4 @@
+print("Hello World")
 # Get input from the user for the first number
 num1 = 5
 
